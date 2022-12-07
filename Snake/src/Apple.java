@@ -11,6 +11,7 @@ public class Apple  extends  GameItem{
 //    public static void setVALUE(int VALUE) {
 //        Apple.VALUE = VALUE;
 //    }
+//    获取数值；
 
     public int getVALUE() {
         return VALUE;
